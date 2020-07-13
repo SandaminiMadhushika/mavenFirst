@@ -114,12 +114,4 @@ git@github.com:SandaminiMadhushika/mavenFirst.git
       </plugins>
     </pluginManagement>
   </build>
-  <distributionManagement>
-    <repository>
-      <id>myRepoId</id>
-      <name>myCompanyReporsitory</name>
-      <url>git@github.com:SandaminiMadhushika/mavenFirst.git</url>
-    </repository>
-  </distributionManagement>
-
 </project>
