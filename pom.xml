@@ -116,9 +116,9 @@ git@github.com:SandaminiMadhushika/mavenFirst.git
   </build>
   <distributionManagement>
     <repository>
-      <id>myRepoId</id>
+      <id>nexus-releases</id>
       <name>myCompanyReporsitory</name>
-      <url>http://localhost:8081/</url>
+      <url>http://localhost:8081/nexus/content/repositories/releases</url>
     </repository>
   </distributionManagement>
 
