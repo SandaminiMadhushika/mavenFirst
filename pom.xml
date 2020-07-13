@@ -5,7 +5,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>user_management</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 <packaging>pom</packaging>
 
   <name>user_management</name>
@@ -29,7 +29,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:SandaminiMadhushika/mavenFirst.git</developerConnection>
-    <tag>mavenFirst</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
