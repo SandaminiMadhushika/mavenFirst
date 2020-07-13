@@ -118,7 +118,7 @@ git@github.com:SandaminiMadhushika/mavenFirst.git
     <repository>
       <id>myRepoId</id>
       <name>myCompanyReporsitory</name>
-      <url>git@github.com:SandaminiMadhushika/mavenFirst.git</url>
+      <url>http://localhost:8081/</url>
     </repository>
   </distributionManagement>
 
